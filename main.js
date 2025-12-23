@@ -117,7 +117,7 @@ let playerAction = null;
 let defaultBoneRotations = new Map(); // Stocker les rotations par défaut des os
 
 loader.load(
-  'assets/azri_run_animation/scene.gltf',
+  'public/assets/azri_run_animation/scene.gltf',
   (gltf) => {
     player = gltf.scene;
 
@@ -172,7 +172,7 @@ const towerCollisionRadius = 2.5; // Rayon de collision de la tour
 const towerPlatformHeight = 0.5; // Hauteur approximative de la plateforme de la tour
 
 loader.load(
-  'assets/the_china_tower/scene.gltf',
+  'public/assets/the_china_tower/scene.gltf',
   (gltf) => {
     tower = gltf.scene;
 
@@ -218,7 +218,7 @@ const treeCount = 2; // Nombre d'arbres à placer (près de la tour)
 const trees = [];
 
 loader.load(
-  'assets/maple_tree/scene.gltf',
+  'public/assets/maple_tree/scene.gltf',
   (gltf) => {
     const treeModel = gltf.scene;
     
@@ -275,7 +275,7 @@ let totoroDialogTimer = null; // Timer pour la bulle de dialogue
 let wasNearTotoro = false; // Pour détecter quand on s'approche
 
 loader.load(
-  'assets/totoros/scene.gltf',
+  'public/assets/totoros/scene.gltf',
   (gltf) => {
     console.log('Totoro loaded successfully');
     totoro = gltf.scene;
@@ -380,7 +380,7 @@ let rexWanderRadius = 40; // Rayon de balade autour du centre
 const rexFollowDistance = 15; // Distance à laquelle le dinosaure commence à suivre le joueur
 
 loader.load(
-  'assets/walking_indominus_rex/scene.gltf',
+  'public/assets/walking_indominus_rex/scene.gltf',
   (gltf) => {
     console.log('Indominus Rex loaded successfully');
     rex = gltf.scene;
