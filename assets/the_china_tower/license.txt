@@ -1,0 +1,11 @@
+Model Information:
+* title:	The China Tower
+* source:	https://sketchfab.com/3d-models/the-china-tower-f5e2c1f6bda344c2ba6d8e1ad8d8ac5e
+* author:	artfletch (https://sketchfab.com/artfletch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "The China Tower" (https://sketchfab.com/3d-models/the-china-tower-f5e2c1f6bda344c2ba6d8e1ad8d8ac5e) by artfletch (https://sketchfab.com/artfletch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

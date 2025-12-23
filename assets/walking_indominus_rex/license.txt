@@ -1,0 +1,11 @@
+Model Information:
+* title:	Walking Indominus Rex
+* source:	https://sketchfab.com/3d-models/walking-indominus-rex-ed19c5df256d462c915da3962a749758
+* author:	Gisduyg (https://sketchfab.com/Gisduyg)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Walking Indominus Rex" (https://sketchfab.com/3d-models/walking-indominus-rex-ed19c5df256d462c915da3962a749758) by Gisduyg (https://sketchfab.com/Gisduyg) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
